@@ -25,8 +25,10 @@ Kullanıcılar, ad-soyad, e-posta, yaş bilgilerini girip ilgilendikleri kursu s
 ---
 
 ## ⚙️Ekran Görüntüsü
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f5baa970-05e5-482d-b999-0dc35cde2522" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d036f273-b98d-4d15-9995-4f47f860add9" />
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a40dc4bf-7e02-4b28-8f83-348179ae8ed1" />
+
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/8dac9a47-f4e5-4c80-8aef-efedc705784d" />
+
 
 
 
