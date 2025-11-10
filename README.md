@@ -31,5 +31,3 @@ Kullanıcılar, ad-soyad, e-posta, yaş bilgilerini girip ilgilendikleri kursu s
 
 
 
-   ```bash
-   git clone https://github.com/kullaniciadi/kursa-kayit-ol.git
