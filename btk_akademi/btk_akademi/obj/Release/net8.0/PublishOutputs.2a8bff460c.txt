@@ -1,0 +1,7 @@
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\btk_akademi.exe
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\btk_akademi.dll
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\btk_akademi.deps.json
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\btk_akademi.runtimeconfig.json
+C:\Users\Merkez\Desktop\asp\btk_akademi\btk_akademi\obj\Release\net8.0\PubTmp\Out\btk_akademi.pdb

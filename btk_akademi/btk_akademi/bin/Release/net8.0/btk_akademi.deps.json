@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "btk_akademi/1.0.0": {
+        "runtime": {
+          "btk_akademi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "btk_akademi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
